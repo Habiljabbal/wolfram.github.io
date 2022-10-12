@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/background-red-background-passion-c1f087c9c6dcb3b9f3abd22be62ef525.jpg);
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.197) !important;
+    margin-top: 5% !important;
+
+}
+
+.alert-success{
+    background-color: rgba(255, 255, 255, 0.3) !important;
+}
